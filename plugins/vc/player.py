@@ -52,6 +52,12 @@ __starts with ! (exclamation mark)__
 `!resume` resume playing
 `!mute`  mute the VC userbot
 `!unmute`  unmute the VC userbot
+
+**Need Help Contact Me**
+- [OnlyFaris](https://t.me/Titit_Kuda)
+- [GitHub](https://github.com/OnlyFaris/xluamusic)
+
+
 """
 
 USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Music**
