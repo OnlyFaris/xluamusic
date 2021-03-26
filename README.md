@@ -1,19 +1,18 @@
 # Telegram Voice Music
 
 
-# Telegram 
-[![Telegram](https://www.herokucdn.com/deploy/button.svg)](https://t.me/Titit_Kuda)
+### Connect with me:
+[<img align="left" alt="OnlyFaris | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="OnlyFaris | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="OnlyFaris | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
 
 
+[youtube]: https://youtube.com/COKLIMITE
+[instagram]: https://instagram.com/onlyfarisxlua
+[telegram]: https://t.me/OnlyFaris
 
 
-# Telegram Channel
-[![Telegram](https://www.herokucdn.com/deploy/button.svg)](https://t.me/AnimeCheatervip)
-
-
-
-# Telegram Group
-[![Telegram](https://www.herokucdn.com/deploy/button.svg)](https://t.me/AnimeChating)
 
 
 ## Deploy to Heroku
