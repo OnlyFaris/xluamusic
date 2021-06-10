@@ -154,7 +154,7 @@ async def playout_ended_handler(group_call, filename):
 # - Pyrogram handlers
 
 
-@Client.on_message(main_filter & current_vc & filters.regex("^(\\/|!)p$"))
+@Client.on_message(main_filter & current_vc & filters.regex("^(\\/|!)play$"))
 async def play_track(client, m: Message):
     group_call = mp.group_call
     playlist = mp.playlist
